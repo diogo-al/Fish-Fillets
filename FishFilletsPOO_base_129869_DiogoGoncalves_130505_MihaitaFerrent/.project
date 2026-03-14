@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FishFilletsPOO_base_129869_DiogoGoncalves_130505_MihaitaFerrent</name>
+	<comment/>
+	<projects/>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

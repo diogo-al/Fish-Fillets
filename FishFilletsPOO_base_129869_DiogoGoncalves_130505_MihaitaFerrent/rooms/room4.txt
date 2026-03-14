@@ -1,0 +1,12 @@
+WWWWWWWWWW
+WS   A   W
+WB HHHH  W
+W b  b   W
+W WXWW   W
+W        W
+WWWWWWWYWW
+W        W
+W      W W
+WWWWWWW WW
+
+7 10
